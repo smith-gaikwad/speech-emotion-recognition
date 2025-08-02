@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+
+# Large data files
+data/
+
+# Saved models (optional, but good practice if they are large)
+models/
